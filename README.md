@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/star-welcome!-red)
 ![](https://img.shields.io/badge/%20welcome_to_pull_your_requests!-8A2BE2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MildRainJayden)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 引言
 
