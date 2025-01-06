@@ -3,6 +3,8 @@
 ![](https://img.shields.io/badge/star-welcome!-red)
 ![](https://img.shields.io/badge/%20welcome_to_pull_your_requests!-8A2BE2)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 引言
 
 随着深度学习技术的发展，人脸识别已经成为了一个热门的领域。人脸识别技术已广泛应用于安全、金融、零售等领域。在传统的人脸识别方法中，需要使用大量的计算资源和时间，且在实时性方面存在较大的限制。而使用深度学习算法进行人脸识别，则可以提高识别精度和响应速度，通过裁剪，优化算法，使得人脸识别在嵌入式系统中得以落地实现。
